@@ -6,6 +6,17 @@
 nb:
   languageCode:  nb
   contentDir: content/nb
+  params:
+    description: Friluftsterapi
+  menu:
+    - name: ABUP
+      url: www.abup.no
+      weight: 1
+    - name: Om oss
+      url: '#about'
+      weight: 2
+    - name: Nyheter
+      url: '#news'
 
 en:
   languageCode: en-us
