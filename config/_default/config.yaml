@@ -13,7 +13,7 @@ copyright: '@ {year} ABUP FoU' # Footer text, e.g. '© {year} Me'
 
 defaultContentLanguage: nb
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################

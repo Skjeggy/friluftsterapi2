@@ -5,7 +5,7 @@
 # Default language
 nb:
   languageCode:  nb
-  contentDir: content/
+  contentDir: content/nb
 
 en:
   languageCode: en-us
