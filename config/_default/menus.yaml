@@ -5,7 +5,7 @@
 
 main:
   - name: ABUP FoU
-    url: www.abup.no
+    url: http://www.abup.no/forskning/
     weight: 1
   - name: Om oss
     url: about
