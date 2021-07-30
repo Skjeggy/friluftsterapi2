@@ -4,18 +4,27 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+  - name: ABUP FoU
+    url: www.abup.no
+    weight: 1
+  - name: Om oss
+    url: about
+    weight: 10
+  - name: Vårt Team
+    url: people
+    weight: 20
   - name: Nyheter
     url: post
-    weight: 20
-  - name: Ansatte
-    url: people
     weight: 30
   - name: Arrangementer
     url: event
     weight: 40
-  - name: Publikasjoner
+  - name: Publikasjoner/Media
     url: publication
     weight: 50
   - name: Kontakt oss
     url: contact
     weight: 60
+  - name: Galleri
+    url: https://www.instagram.com/abupagder/?hl=nb
+    weight: 70
