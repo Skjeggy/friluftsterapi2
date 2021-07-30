@@ -16,30 +16,30 @@ en:
    description: Site description in English...
   menu:
    main:
-  - name: ABUP FoU
-    url: http://www.abup.no/forskning/
-    weight: 1
-  - name: About
-    url: about
-    weight: 10
-  - name: Our Team
-    url: people
-    weight: 20
-  - name: News
-    url: post
-    weight: 30
-  - name: Events
-    url: event
-    weight: 40
-  - name: Publications/media
-    url: publication
-    weight: 50
-  - name: Contact us
-    url: contact
-    weight: 60
-  - name: Gallery
-    url: https://www.instagram.com/abupagder/?hl=nb
-    weight: 70
+    - name: ABUP FoU
+      url: http://www.abup.no/forskning/
+      weight: 1
+    - name: About
+      url: about
+      weight: 10
+    - name: Our Team
+      url: people
+      weight: 20
+    - name: News
+      url: post
+      weight: 30
+    - name: Events
+      url: event
+      weight: 40
+    - name: Publications/media
+      url: publication
+      weight: 50
+    - name: Contact us
+      url: contact
+      weight: 60
+    - name: Gallery
+      url: https://www.instagram.com/abupagder/?hl=nb
+      weight: 70
 
 
 
