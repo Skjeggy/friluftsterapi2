@@ -12,4 +12,4 @@ design:
   columns: "1"
 hero_media: welcome.jpg
 ---
-Her blir du bedre kjent med Friluftsteamet ved Avdeling for barn og unges psykiske helse (Abup) på Sørlandet sykehusHF. Friluftsteamet er ansvarlig for behandlingstilbudet vi har kalt Friluftsterapi, samt dagtilbudene UT-gruppe (i Arendal) og Basecamp (i Kristiansand).
+Her blir du bedre kjent med Friluftsteamet ved Avdeling for barn og unges psykiske helse (Abup) på Sørlandet sykehus HF. Friluftsteamet er ansvarlig for behandlingstilbudet vi har kalt Friluftsterapi, samt dagtilbudene UT-gruppe (i Arendal) og Basecamp (i Kristiansand).
