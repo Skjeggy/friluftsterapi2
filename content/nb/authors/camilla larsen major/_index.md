@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Martin Hirte
+title: Camilla Larsen Major
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Psykologspesialist
+role: Sosionom
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Psykologspesialist for UT-teamet ved ABUP Arendal.
+bio: Sosionom for UT-teamet ved ABUP Arendal.
 
 # interests:
 # - Artificial Intelligence
@@ -23,12 +23,8 @@ bio: Psykologspesialist for UT-teamet ved ABUP Arendal.
 
 education:
   courses:
-  - course: Psykolog
-  - course: Spesialist i barne- og ungdomspsykologi
-  - course: Videreutdanning i kognitiv terapi
-  - course: Videreutdanning i autogen trening
-  - course: Klatring topptaukort
-  - course: Havkajakk videregående kurs
+  - course: Sosionom
+  - course: Spesialisering i sped- og småbarns psykiske helse
 
 
 # Social/Academic Networking
@@ -68,7 +64,4 @@ user_groups:
 - UT TEAM ARENDAL
 ---
 
-Jeg er født og oppvokst i Tyskland. Allerede i ungdomsårene har jeg brukt sykkelen til mange turer både i Tyskland og Skandinavia. I 2004 flyttet jeg til Norge sammen med min kone. Det var ikke helt tilfeldig at vi valgte å bosette oss nær sjøen. En av mine største hobbyer er havkajakkpadling. I 2019 tok jeg videregåendekurs hav hvor jeg blant annet har lært å beherske teknikk og gruppedynamikk i krevende forhold.
-
-
-Jeg har jobbet som psykolog siden 2003, og er spesialist i barne- og ungdomspsykologi. Jeg har tatt videreutdanning i kognitiv terapi, og har interessert meg spesielt for behandling av angst- og tvangslidelser. De fleste årene har jeg jobbet på poliklinikken ved ABUP Arendal, men siden 2020 har jeg vært tilknyttet akutt ambulant team. Siden 2014 har jeg jobbet med friluftsterapi i ABUP og gleder meg over at vi nå tilbyr utendørsterapi året rundt. Mitt hovedfokus ligger i fjellturer med overnatting, dagsturer, kajakkpadling og klatring.
+Jeg er sosionom med spesialisering i sped- og småbarns psykiske helse. Jeg har jobbet i ABUP Arendal siden 2019. Jeg har elsket å være ute så lenge jeg kan huske, men i 2010 oppstod det en ekte kjærlighet til den norske naturen. Har siden det trives best med tung sekk og fjellsko, nært eller fjernt, eller fjellski og snø. Jeg drar på tur for å oppsøke gode mestringsopplevelser, avkobling og fordi det gir meg enormt mye glede. Jeg har stor tro på naturen som terapirom og er glad for å være en del av UT-teamet slik at jeg kan bidra til at enda flere barn, unge og familier får ta del i disse gode opplevelsene.

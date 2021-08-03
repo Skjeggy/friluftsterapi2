@@ -6,7 +6,7 @@ title: Andreas Koksvik
 superuser: false
 
 # Role/position
-role: Koordinator for UT-teamet ved ABUP Arendal
+role: Koordinator
 
 # Organizations/Affiliations
 organizations:
