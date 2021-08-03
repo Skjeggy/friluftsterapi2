@@ -9,7 +9,7 @@ weight: 10
 title: Først et tilbakeblikk
 
 image:
-  filename: featured
+  filename: bilde-1.jpg
   focal_point: Smart
   preview_only: false
 
