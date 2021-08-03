@@ -15,7 +15,7 @@ image:
 
 design:
   columns: "1"
-  image:
+  image: bilde-1.jpg
 ---
 
 Det hele startet egentlig med denne mannen, Leiv Einar Gabrielsen (Bilde 1).
