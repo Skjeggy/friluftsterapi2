@@ -12,6 +12,10 @@ title: Samarbeidspartnere UT team 2021
 #   filename: featured
 #   focal_point: Smart
 #   preview_only: false
+
+design:
+  columns: "1"
+  image:
 ---
 
 ## BARNAS STASJON ▪ BLÅ KORS

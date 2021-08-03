@@ -12,6 +12,10 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+
+design:
+  columns: "1"
+  image:
 ---
 
 Det hele startet egentlig med denne mannen, Leiv Einar Gabrielsen (Bilde 1).
