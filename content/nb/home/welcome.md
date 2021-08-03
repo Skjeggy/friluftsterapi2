@@ -6,7 +6,7 @@ widget: hero
 widget_id: blank
 headless: true
 weight: 10
-title: Wowchemy Research Group
+title: Friluftsteamet
 subtitle: ""
 design:
   columns: "1"
