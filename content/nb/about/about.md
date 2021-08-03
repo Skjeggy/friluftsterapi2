@@ -8,14 +8,21 @@ weight: 10
 
 title: Først et tilbakeblikk
 
-image:
-  filename: bilde-1.jpg
-  focal_point: Center
-  preview_only: false
 
 design:
   columns: "1"
-  image: bilde-1.jpg
+  background:
+    image: bilde-1.jpg
+    image_darken: 0
+    image_parallax: false
+    image_position: center
+    image_size: cover
+    text_color_light: true
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
+advanced:
+  css_class: fullscreen
+
 ---
 
 Det hele startet egentlig med denne mannen, Leiv Einar Gabrielsen (Bilde 1).
