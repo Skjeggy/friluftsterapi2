@@ -8,10 +8,10 @@ weight: 20
 
 title: Samarbeidspartnere UT team 2021
 
-image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
+# image:
+#   filename: featured
+#   focal_point: Smart
+#   preview_only: false
 ---
 
 ## BARNAS STASJON ▪ BLÅ KORS
