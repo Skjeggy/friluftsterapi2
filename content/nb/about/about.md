@@ -1,5 +1,5 @@
 ---
-widget: Featured
+widget: blank
 
 headless: true
 
