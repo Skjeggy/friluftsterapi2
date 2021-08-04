@@ -9,7 +9,7 @@ weight: 10
 
 image:
   filename: bilde-1.jpg
-  focal_point: Smart
+  focal_point: Center
   preview_only: false
   caption: ""
 
