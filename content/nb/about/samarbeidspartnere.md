@@ -4,7 +4,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 99
 
 title: Samarbeidspartnere UT team 2021
 
