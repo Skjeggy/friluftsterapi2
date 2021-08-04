@@ -10,7 +10,7 @@ title: Først et tilbakeblikk
 
 
 design:
-  columns: "1"
+  columns: "2"
   image: bilde-1.jpg
 
 ---
