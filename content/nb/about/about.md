@@ -7,7 +7,7 @@ headless: true
 weight: 80
 
 title: 
-draft: true
+draft: false
 
 image:
   filename: featured.jpg
