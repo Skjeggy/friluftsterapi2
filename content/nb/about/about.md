@@ -15,8 +15,8 @@ image:
   preview_only: false
   caption: ""
 
-# design:
-#   columns: "1"
+design:
+  columns: "1"
 
 ---
 
