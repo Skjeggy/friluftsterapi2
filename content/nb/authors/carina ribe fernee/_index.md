@@ -21,10 +21,14 @@ bio: Forsker ved ABUP enhet for Forskning og Utvikling.
 # - Computational Linguistics
 # - Information Retrieval
 
-# education:
-#   courses:
-#   - course: 
-#   - course: 
+education:
+  courses:
+  - course: PhD i helsevitenskap, Universitetet i Agder
+  - course: Universitetspedagogikk, Universitetet i Agder
+  - course: Master i medisinsk antropologi, University College London
+  - course: Psykososialt arbeid med barn, unge og deres familier, Universitetet i Agder
+  - course: Årsstudium i Tverrkulturell kommunikasjon, Gimlekollen Mediehøgskole
+  - course: Bachelor i sykepleie, Høgskolen i Bergen
 
 
 
@@ -66,4 +70,4 @@ user_groups:
 - UT TEAM FoU
 ---
 
-<!-- Skriv inn bio her -->
+Jeg vokste opp på landet – et steinkast fra sjøen og likevel omsluttet av skogen. Jeg har alltid elsket å være utendørs. Selv om jeg liker å være aktiv, er jeg ikke spesielt spenningsdrevet. Jeg søker primært naturens avkobling, ro og kontakten man oppnår med seg selv, andre mennesker og naturens mangfold når man oppholder seg ute over kortere eller lengre tid. Jeg har jobbet i ABUP siden 2003 og ble tidlig involvert i friluftsterapiprosjektet. Det har vært en ufattelig lærerik og inspirerende «reise» både faglig og personlig å få være delaktig i de ulike fasene av dette kliniske forsknings- og utviklingsarbeidet, som ble ledet av Leiv Einar Gabrielsen. Jeg skrev min doktorgradsavhandling Into Nature basert på deltakende observasjon og intervjuer med ungdommer som deltok i den første utgaven av Friluftsterapi. Nå for tiden koordinerer jeg forskningsaktiviteten knyttet til utendørsterapitilbudet i ABUP og er involvert i nettverksarbeid både nasjonalt, nordisk og internasjonalt.
