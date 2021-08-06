@@ -6,7 +6,7 @@ title: Martin Roland
 superuser: false
 
 # Role/position
-role: Psykologspesialist
+role: Behandler
 
 # Organizations/Affiliations
 organizations:
@@ -23,9 +23,8 @@ bio: Behandler for UT-teamet ved ABUP Kristiansand.
 
 education:
   courses:
-  - course: Vernepleier
-  - course: Videreutdanning i familieterapi
-  - course: TF-CBT-terapeut (traumefokusert kognitiv atferdsterapi)
+  - course: Tømmermann
+  - course: Bachelorgrad i psykologi
 
 
 
@@ -67,4 +66,4 @@ user_groups:
 - UT TEAM KRISTIANSAND
 ---
 
-Jeg har jobbet i ABUP siden 2001, først på sengepost og fra 2008 som ambulant terapeut i akutt ambulant enhet. Jeg har vært med i Friluftsteamet/UT-teamet siden 2018. Jeg liker selv godt å holde på med jakt og friluftsliv på fritiden. Jeg ser verdien i å benytte naturen som en godt egnet plass for terapi til barn, ungdom og familier. Utendørsaktiviteter og naturbasert tilnærming fremmer både vår fysiske og psykiske helse. Samtidig har naturen mye å tilby når det gjelder bruk og bevisstgjøring av sansene våre. Ved å utfolde seg i naturen kan man også utvikle evnen til å regulere vanskelige tanker og følelser. Naturen gir rom for gode samtaler og mestringsopplevelser som skaper endring.
+Jeg har bakgrunn som tømrer, før jeg tok en bachelorgrad i psykologi. Jeg har jobbet med mennesker i mange år – både voksne, ungdom og barn – og har gjort meg mange gode erfaringer med å benytte naturen som ressurs for å hjelpe mennesker til å få det bedre. Jeg har stor tro på det å anvende natur og friluftsliv som et nyttig verktøy i behandling for spesielt barn og unge. Jeg har jobbet ved ABUPs akutt ambulant enhet siden 2019 og ble samtidig rekruttert inn i UT-teamet, noe jeg trives veldig godt med.
