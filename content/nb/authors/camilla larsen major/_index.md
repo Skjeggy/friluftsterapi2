@@ -6,7 +6,7 @@ title: Camilla Larsen Major
 superuser: false
 
 # Role/position
-role: Sosionom
+role: Behandler
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sosionom for UT-teamet ved ABUP Arendal.
+bio: Behandler for UT-teamet ved ABUP Arendal.
 
 # interests:
 # - Artificial Intelligence

@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Magne Røsnes
+title: Martin Roland
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Behandler
+role: Psykologspesialist
 
 # Organizations/Affiliations
 organizations:
