@@ -5,7 +5,7 @@ widget: blank
 
 # This file represents a page section.
 headless: true
-draft: true
+active: true
 
 
 # Order that this section appears on the page.
@@ -18,4 +18,4 @@ design:
   columns: '2'
 ---
 
-{{< gallery album="themes" >}}
+{{< gallery album="album" >}}
