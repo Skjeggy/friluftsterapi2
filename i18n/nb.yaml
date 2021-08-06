@@ -101,7 +101,7 @@
 - id: pub_uncat
   translation: Ukategorisert
 - id: pub_conf
-  translation: Konferanseartikkel
+  translation: Mediaoppslag
 - id: pub_journal
   translation: Tidskriftsartikel
 - id: pub_preprint
