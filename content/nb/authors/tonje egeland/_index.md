@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Anne Kari Jansen
+title: Tonje Egeland
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Koordinator
+role: Behandler
 
 # Organizations/Affiliations
 organizations:
