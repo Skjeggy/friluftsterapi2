@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Nylige og kommende arrangementer
 
 # View.
 #   1 = List
