@@ -18,4 +18,4 @@ design:
   columns: '2'
 ---
 
-{{< gallery album="album" >}}
+{{< gallery >}}
