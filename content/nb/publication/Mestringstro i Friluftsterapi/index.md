@@ -18,11 +18,7 @@ publication_types: ["3"]
 # publication: In *Source Themes Conference*
 # publication_short: In *STC*
 
-abstract: Psykiske utfordringer er utbredt blant barn og unge, og naturbaserte tilnærminger til helsefremming, psykisk helsearbeid og behandling virker lovende. Det er likevel foreløpig begrenset med forskning innen dette feltet i Norge og i Norden. Denne studien undersøker erfaringer med utendørsterapi som et dagtilbud i spesialisthelsetjenesten, hvor ungdommers og terapeuters erfaring med gruppetilbudet ”Basecamp” ved Sørlandet sykehus utforskes. Hensikten med studien er å øke kunnskapen om utendørsterapi som behandlingstilbud til ungdom med psykiske utfordringer. Forskningsspørsmålene er "Hva foregår på Basecamp? Hvilke forventninger til, erfaringer med og tanker om Basecamp har ungdommer og terapeuter i Basecamp?"
-
-** Metode ** Studien har en kvalitativ tilnærming bestående av individuelle intervju med fem ungdommer, et fokusgruppeintervju med tre terapeuter samt en hospiteringsperiode som inkluderte besøk på fem Basecamp-samlinger. Tematisk analyse ble brukt i analysen av datamaterialet.
-
-** Resultat og konklusjon** Ungdommenes erfaringer var spenningsfylte, det var både krevende og givende å delta på Basecamp. Det som var viktig for dem i terapien var opphold i naturen, sosiale relasjoner, å gjøre noe annet enn det vanlige, muligheten til å bestemme grad av deltakelse selv og at utfordringene virket overkommelige. Terapeutene syntes relasjonen til ungdommene ble bedre når terapien foregikk utendørs. De opplevde at naturen ga gode forutsetninger for økt tilstedeværelse, mestringstro og sosial læring, og at det friske og gode ble fremtredende i naturen, noe de benyttet i arbeidet med å fremme god psykisk helse. Opphold i naturen kan ha en gjenoppbyggende effekt på den psykiske helsen. I denne studien understrekes betydningen av systematisk bruk av naturen i en terapisammenheng.
+abstract: Det er en stor vekst av mentale sykdommer på verdensbasis, og forekomsten øker spesielt blant unge mennesker. Det er derfor nødvendig å identifisere, og ta i bruk alle helsefremmende metoder som er tilgjengelige og effektive. En behandlingsmetode som er relativt ny i Norge, og som kan være en relevant helsefremmende behandling for ungdom, er Friluftsterapi. For at Friluftsterapi skal anses som en behandlingsmetode, er det nødvendig med studier av programmet for å undersøke om det har en positiv effekt. Et element som er antatt å bli påvirket av Friluftsterapien er mestringstro. Målet med prosjektet var å undersøke om behandlingen Friluftsterapi ved Sørlandet sykehus HF kunne påvirke mestringstroen til ungdommer med psykiske problemer. Metoden i studiet er kvalitativ. Det ble benyttet delvis strukturert intervju, og informantene ble intervjuet individuelt. Utvalget bestod av seks informanter, to gutter og fire jenter i alderen 16-18 år. Informantene deltok i samme behandlingsgruppe. Det ble brukt temasentrert analyse for å analysere datamaterialet. Resultatene i studiet viste at Friluftsterapien har en påvirkning på ungdommenes mestringstro gjennom en rekke faktorer i organiseringen av programmet. Grunnlaget for Friluftsterapien skapes i stor grad gjennom deltagelse og opplevelser med naturen som ramme, der kombinasjonen mellom aktiviteter, terapien, terapeutene og gruppa har en positiv betydning for ungdommenes mestringstro.
 
 # Summary. An optional shortened abstract.
 summary: En kvalitativ studie på Friluftsterapiens påvirkning på mestringstro.
@@ -34,7 +30,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: torvik2021.pdf
+url_pdf: haanes2016.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
