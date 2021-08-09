@@ -7,7 +7,6 @@ widget: blank
 headless: true
 draft: true
 
-
 # Order that this section appears on the page.
 weight: 66
 
@@ -16,6 +15,8 @@ subtitle:
 
 design:
   columns: '2'
+
+
 ---
 
-{{< gallery album="themes" >}}
+{{< gallery album="gallery" >}}
