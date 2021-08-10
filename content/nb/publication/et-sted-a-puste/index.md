@@ -19,7 +19,7 @@ publication_types: ["3"]
 # publication: In *Source Themes Conference*
 # publication_short: In *STC*
 
-abstract: Psykiske utfordringer er utbredt blant barn og unge, og naturbaserte tilnærminger til helsefremming, psykisk helsearbeid og behandling virker lovende. Det er likevel foreløpig begrenset med forskning innen dette feltet i Norge og i Norden. Denne studien undersøker erfaringer med utendørsterapi som et dagtilbud i spesialisthelsetjenesten, hvor ungdommers og terapeuters erfaring med gruppetilbudet ”Basecamp” ved Sørlandet sykehus utforskes. Hensikten med studien er å øke kunnskapen om utendørsterapi som behandlingstilbud til ungdom med psykiske utfordringer. Forskningsspørsmålene er "Hva foregår på Basecamp? Hvilke forventninger til, erfaringer med og tanker om Basecamp har ungdommer og terapeuter i Basecamp?".
+abstract:
 
 # Summary. An optional shortened abstract.
 summary: En undersøkelse av et naturbasert dagtilbud for ungdom som strever.
@@ -32,13 +32,13 @@ links:
 # - name: Custom Link
 #   url: http://example.org
 url_pdf: torvik2021.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
