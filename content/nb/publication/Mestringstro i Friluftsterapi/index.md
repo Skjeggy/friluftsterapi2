@@ -18,7 +18,7 @@ publication_types: ["4"]
 # publication: In *Source Themes Conference*
 # publication_short: In *STC*
 
-publication: "HVL Open"
+publication: HVL Open
 publication_short: "Masterstudium i idrettsvitenskap Høgskulen i Sogn og Fjordane mai 2016"
 
 abstract: Det er en stor vekst av mentale sykdommer på verdensbasis, og forekomsten øker spesielt blant unge mennesker. Det er derfor nødvendig å identifisere, og ta i bruk alle helsefremmende metoder som er tilgjengelige og effektive. En behandlingsmetode som er relativt ny i Norge, og som kan være en relevant helsefremmende behandling for ungdom, er Friluftsterapi. For at Friluftsterapi skal anses som en behandlingsmetode, er det nødvendig med studier av programmet for å undersøke om det har en positiv effekt. Et element som er antatt å bli påvirket av Friluftsterapien er mestringstro. Målet med prosjektet var å undersøke om behandlingen Friluftsterapi ved Sørlandet sykehus HF kunne påvirke mestringstroen til ungdommer med psykiske problemer. Metoden i studiet er kvalitativ. Det ble benyttet delvis strukturert intervju, og informantene ble intervjuet individuelt. Utvalget bestod av seks informanter, to gutter og fire jenter i alderen 16-18 år. Informantene deltok i samme behandlingsgruppe. Det ble brukt temasentrert analyse for å analysere datamaterialet. Resultatene i studiet viste at Friluftsterapien har en påvirkning på ungdommenes mestringstro gjennom en rekke faktorer i organiseringen av programmet. Grunnlaget for Friluftsterapien skapes i stor grad gjennom deltagelse og opplevelser med naturen som ramme, der kombinasjonen mellom aktiviteter, terapien, terapeutene og gruppa har en positiv betydning for ungdommenes mestringstro.
