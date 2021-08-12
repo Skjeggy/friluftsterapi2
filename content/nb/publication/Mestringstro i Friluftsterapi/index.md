@@ -33,7 +33,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
- url_pdf: https://hvlopen.brage.unit.no/hvlopen-xmlui/handle/11250/2424322
+# url_pdf: https://hvlopen.brage.unit.no/hvlopen-xmlui/handle/11250/2424322
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
