@@ -47,4 +47,23 @@ item:
     date_end: ''
     description: 'Vi innledet et samarbeid med Den Norske Turistforening (DNT) Sør i 2019 hvor DNT Sør sammen med Fritidsenheten tilbyr lavterskel naturbaserte friluftsgrupper både for ungdommer som har deltatt i utendørsterapeutiske tilbud i ABUP og for familier etter deltakelse i flerfamiliegrupper i regi av ABUP eller Blå Kors. Kontaktperson: [Hanne C. Jensen](mailto:hanne.jensen@dnt.no). Fagsjef for frivillighet og folkehelse.'
 
+  - organization: Universitetet i Agder
+    organization_url: 'www.uia.no'
+    title: 'Universitetet i Agder'
+    url: ''
+    certificate_url: ''
+    date_start: '2021-01-01'
+    date_end: ''
+    description: 'Vi samarbeider med universitetet i landsdelen vår i flere sammenhenger, senest i forbindelse med utviklingen av EVU-studiet Naturbasert terapeutisk arbeid og verdenskonferansen The 9th International Adventure Therapy Conference/3rd Gathering for Adventure Therapy Europe (9IATC/3GATE). Kontaktperson: [Sveinung Berntsen Stølevik](mailto:sveinung.berntsen@uia.no). Instituttleder for idrettsvitenskap og kroppsøving.'
+
+  - organization: Universitetet i Agder
+    organization_url: 'www.uia.no'
+    title: 'Universitetet i Agder'
+    url: ''
+    certificate_url: ''
+    date_start: '2021-01-01'
+    date_end: ''
+    description: 'Vi samarbeider med universitetet i landsdelen vår i flere sammenhenger, senest i forbindelse med utviklingen av EVU-studiet Naturbasert terapeutisk arbeid og verdenskonferansen The 9th International Adventure Therapy Conference/3rd Gathering for Adventure Therapy Europe (9IATC/3GATE). Kontaktperson: [Sveinung Berntsen Stølevik](mailto:sveinung.berntsen@uia.no). Instituttleder for idrettsvitenskap og kroppsøving.'
+
+
 ---
