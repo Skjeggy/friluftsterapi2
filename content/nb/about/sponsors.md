@@ -3,7 +3,7 @@ widget: accomplishments
 headless: true  # This file represents a page section.
 weight: 91
 
-title: Samarbeidspartnere UT team 2021
+title: Samarbeid
 
 # ... Put Your Section Options Here (title etc.) ...
 
