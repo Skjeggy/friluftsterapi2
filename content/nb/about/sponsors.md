@@ -35,16 +35,16 @@ item:
     date_start: '2021-01-01'
     date_end: ''
     description: 'I Kristiansand kommune har de jobbet naturbasert med voksne i mange år og teamet ved Energiverket veiledet oss da vi startet opp vårt utendørsterapitilbud i ABUP tilbake i 2012. Siden den gang har vi utvekslet erfaringer og samarbeidet i mange sammenhenger, blant annet i forbindelse med konferanser og i faglige nettverk. Siden 2019 har vi også samarbeidet med Fritidsetaten knyttet til utviklingen av naturbasert familiearbeid, hvor Fritidsetaten bidrar med naturbaserte fritidsgrupper som lavterskel oppfølgingstilbud for ungdommer etter deltakelse i utendørsterapi i ABUP og for familier etter deltakelse i flerfamiliegrupper i regi av ABUP eller Blå Kors.
-    Kontaktperson Energiverket: [Leif Roar Kalleberg](mailto:Leif.Roar.Kalleberg@kristiansand.kommune.no). Avdelingsleder psykisk helse og rus. 
+    Kontaktperson Energiverket: [Leif Roar Kalleberg](mailto:Leif.Roar.Kalleberg@kristiansand.kommune.no). Avdelingsleder psykisk helse og rus. <br>
     Kontaktperson Fritidsenheten: [Vibeke Tangen Koefoed](mailto:Vibeke.Tangen.Koefoed@kristiansand.kommune.no). Fritidsleder gruppetilbud.'
 
-  - organization: DataCamp
-    organization_url: 'https://www.datacamp.com'
-    title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  - organization: Den Norske Turistforening
+    organization_url: 'www.dntsor.no'
+    title: 'Den Norske Turistforening'
     url: ''
-    certificate_url: 'https://www.datacamp.com'
+    certificate_url: ''
     date_start: '2021-01-01'
-    date_end: '2017-12-21'
-    description: ''
+    date_end: ''
+    description: 'Vi innledet et samarbeid med Den Norske Turistforening (DNT) Sør i 2019 hvor DNT Sør sammen med Fritidsenheten tilbyr lavterskel naturbaserte friluftsgrupper både for ungdommer som har deltatt i utendørsterapeutiske tilbud i ABUP og for familier etter deltakelse i flerfamiliegrupper i regi av ABUP eller Blå Kors. Kontaktperson: [Hanne C. Jensen](mailto:hanne.jensen@dnt.no). Fagsjef for frivillighet og folkehelse.'
 
 ---
