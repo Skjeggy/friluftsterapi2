@@ -34,7 +34,7 @@ item:
     certificate_url: ''
     date_start: '2021-01-01'
     date_end: ''
-    description: 'I Kristiansand kommune har de jobbet naturbasert med voksne i mange år og teamet ved Energiverket veiledet oss da vi startet opp vårt utendørsterapitilbud i ABUP tilbake i 2012. Siden den gang har vi utvekslet erfaringer og samarbeidet i mange sammenhenger, blant annet i forbindelse med konferanser og i faglige nettverk. Siden 2019 har vi også samarbeidet med Fritidsetaten knyttet til utviklingen av naturbasert familiearbeid, hvor Fritidsetaten bidrar med naturbaserte fritidsgrupper som lavterskel oppfølgingstilbud for ungdommer etter deltakelse i utendørsterapi i ABUP og for familier etter deltakelse i flerfamiliegrupper i regi av ABUP eller Blå Kors.
+    description: 'I Kristiansand kommune har de jobbet naturbasert med voksne i mange år og teamet ved Energiverket veiledet oss da vi startet opp vårt utendørsterapitilbud i ABUP tilbake i 2012. Siden den gang har vi utvekslet erfaringer og samarbeidet i mange sammenhenger, blant annet i forbindelse med konferanser og i faglige nettverk. Siden 2019 har vi også samarbeidet med Fritidsetaten knyttet til utviklingen av naturbasert familiearbeid, hvor Fritidsetaten bidrar med naturbaserte fritidsgrupper som lavterskel oppfølgingstilbud for ungdommer etter deltakelse i utendørsterapi i ABUP og for familier etter deltakelse i flerfamiliegrupper i regi av ABUP eller Blå Kors. <br>
     Kontaktperson Energiverket: [Leif Roar Kalleberg](mailto:Leif.Roar.Kalleberg@kristiansand.kommune.no). Avdelingsleder psykisk helse og rus. <br>
     Kontaktperson Fritidsenheten: [Vibeke Tangen Koefoed](mailto:Vibeke.Tangen.Koefoed@kristiansand.kommune.no). Fritidsleder gruppetilbud.'
 
@@ -45,7 +45,8 @@ item:
     certificate_url: ''
     date_start: '2021-01-01'
     date_end: ''
-    description: 'Vi innledet et samarbeid med Den Norske Turistforening (DNT) Sør i 2019 hvor DNT Sør sammen med Fritidsenheten tilbyr lavterskel naturbaserte friluftsgrupper både for ungdommer som har deltatt i utendørsterapeutiske tilbud i ABUP og for familier etter deltakelse i flerfamiliegrupper i regi av ABUP eller Blå Kors. Kontaktperson: [Hanne C. Jensen](mailto:hanne.jensen@dnt.no). Fagsjef for frivillighet og folkehelse.'
+    description: 'Vi innledet et samarbeid med Den Norske Turistforening (DNT) Sør i 2019 hvor DNT Sør sammen med Fritidsenheten tilbyr lavterskel naturbaserte friluftsgrupper både for ungdommer som har deltatt i utendørsterapeutiske tilbud i ABUP og for familier etter deltakelse i flerfamiliegrupper i regi av ABUP eller Blå Kors. <br> 
+    Kontaktperson: [Hanne C. Jensen](mailto:hanne.jensen@dnt.no). Fagsjef for frivillighet og folkehelse.'
 
   - organization: Universitetet i Agder
     organization_url: 'www.uia.no'
@@ -54,7 +55,7 @@ item:
     certificate_url: ''
     date_start: '2021-01-01'
     date_end: ''
-    description: 'Vi samarbeider med universitetet i landsdelen vår i flere sammenhenger, senest i forbindelse med utviklingen av EVU-studiet Naturbasert terapeutisk arbeid og verdenskonferansen The 9th International Adventure Therapy Conference/3rd Gathering for Adventure Therapy Europe (9IATC/3GATE). Kontaktperson: [Sveinung Berntsen Stølevik](mailto:sveinung.berntsen@uia.no). Instituttleder for idrettsvitenskap og kroppsøving.'
+    description: 'Vi samarbeider med universitetet i landsdelen vår i flere sammenhenger, senest i forbindelse med utviklingen av EVU-studiet Naturbasert terapeutisk arbeid og verdenskonferansen The 9th International Adventure Therapy Conference/3rd Gathering for Adventure Therapy Europe (9IATC/3GATE). <br> Kontaktperson: [Sveinung Berntsen Stølevik](mailto:sveinung.berntsen@uia.no). Instituttleder for idrettsvitenskap og kroppsøving.'
 
   - organization: Universitetet i Agder
     organization_url: 'www.uia.no'
@@ -63,7 +64,15 @@ item:
     certificate_url: ''
     date_start: '2021-01-01'
     date_end: ''
-    description: 'Vi samarbeider med universitetet i landsdelen vår i flere sammenhenger, senest i forbindelse med utviklingen av EVU-studiet Naturbasert terapeutisk arbeid og verdenskonferansen The 9th International Adventure Therapy Conference/3rd Gathering for Adventure Therapy Europe (9IATC/3GATE). Kontaktperson: [Sveinung Berntsen Stølevik](mailto:sveinung.berntsen@uia.no). Instituttleder for idrettsvitenskap og kroppsøving.'
+    description: 'Vi samarbeider med universitetet i landsdelen vår i flere sammenhenger, senest i forbindelse med utviklingen av EVU-studiet Naturbasert terapeutisk arbeid og verdenskonferansen The 9th International Adventure Therapy Conference/3rd Gathering for Adventure Therapy Europe (9IATC/3GATE). <br> 
+    Kontaktperson: [Sveinung Berntsen Stølevik](mailto:sveinung.berntsen@uia.no). Instituttleder for idrettsvitenskap og kroppsøving.'
 
-
+  - organization: The Foundation For The Rehabilitation Of Children And Young People, The Mannerheim League For Child Welfare (MLL), Finland
+    organization_url: 'www.lastenkuntoutus.net'
+    title: 'The Foundation For The Rehabilitation Of Children And Young People, The Mannerheim League For Child Welfare (MLL), Finland'
+    url: ''
+    certificate_url: ''
+    date_start: '2021-01-01'
+    date_end: ''
+    description: 'Siden 2018 har vi samarbeidet med en stiftelse i Finland som har jobbet med naturbasert rehabilitering for familier i over tjue år. Vi har blitt kjent med deres virksomhet gjennom internasjonalt nettverksarbeid, blant annet Nordic Outdoor Therapy Network (NOTN), hvorpå Vibeke, Carina og Leiv dro på studiebesøk til MLL første gang i januar 2019. Kort tid etter inngikk MLL og Sørlandet sykehus en formell samarbeidsavtale med fokus på faglig utveksling både i forhold til klinisk praksis og forskning. <br> Kontaktperson: Pekka Lyytinen. Psykolog. [Pekka Lyytinen](mailto:Pekka.Lyytinen@mll.fi).'
 ---
