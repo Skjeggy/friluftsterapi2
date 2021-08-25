@@ -74,5 +74,5 @@ item:
     certificate_url: ''
     date_start: '2021-01-01'
     date_end: ''
-    description: 'Siden 2018 har vi samarbeidet med en stiftelse i Finland som har jobbet med naturbasert rehabilitering for familier i over tjue år. Vi har blitt kjent med deres virksomhet gjennom internasjonalt nettverksarbeid, blant annet Nordic Outdoor Therapy Network (NOTN), hvorpå Vibeke, Carina og Leiv dro på studiebesøk til MLL første gang i januar 2019. Kort tid etter inngikk MLL og Sørlandet sykehus en formell samarbeidsavtale med fokus på faglig utveksling både i forhold til klinisk praksis og forskning. <br> Kontaktperson: Pekka Lyytinen. Psykolog. [Pekka Lyytinen](mailto:Pekka.Lyytinen@mll.fi).'
+    description: 'Siden 2018 har vi samarbeidet med en stiftelse i Finland som har jobbet med naturbasert rehabilitering for familier i over tjue år. Vi har blitt kjent med deres virksomhet gjennom internasjonalt nettverksarbeid, blant annet Nordic Outdoor Therapy Network (NOTN), hvorpå Vibeke, Carina og Leiv dro på studiebesøk til MLL første gang i januar 2019. Kort tid etter inngikk MLL og Sørlandet sykehus en formell samarbeidsavtale med fokus på faglig utveksling både i forhold til klinisk praksis og forskning. <br> Kontaktperson: [Pekka Lyytinen](mailto:Pekka.Lyytinen@mll.fi).. Psykolog.'
 ---
