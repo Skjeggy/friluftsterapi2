@@ -72,4 +72,6 @@ user_groups:
 - UT TEAM FoU
 ---
 
+Jeg er professor i helsevitenskap og samfunnsernæring og for tiden midlertidig ansatt ved Abup i 50% stilling ved siden av fast jobb ved Universitetet i Agder. Min forskning har spesielt fokusert på barn og ungdom, og hvordan en rekke ulike levevaner, og levekår påvirker deres fysiske og psykiske helse. På bakgrunn av min videreutdanning og forskningserfaring, har jeg i en rekke år undervist studenter og stipendiater i intervensjonsutvikling, implementering og evaluering. Kombinert med min livslange interesse for friluftsliv er det spennende å jobbe i et tverrfaglig team hvor vi vil undersøke effekten av ulike naturbaserte tiltak som per dags dato gjennomføres eller som planlegges gjennomført ved de ulike regionale avdelingene til Abup.
+
 <!-- skriv bio her -->
