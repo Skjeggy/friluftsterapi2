@@ -24,7 +24,7 @@ item:
     certificate_url: ''
     date_start: '2021-01-01'
     date_end: ''
-    description: 'Blå Kors Barnas Stasjon er en lavterskeltjeneste som tilbyr flere varianter av naturbasert familiearbeid. Dette er stort sett ulike versjoner av flerfamiliegrupper hvor hele familier er samlet, eller egne grupper for fedre med barn eller mødre med barn. Blå Kors er en del av et Agder-basert nettverk for naturbaserte familietjenester hvor vi har utvekslet erfaringer og utviklet felles samarbeidsprosjekter siden 2019.
+    description: 'Blå Kors Barnas Stasjon er en lavterskeltjeneste som tilbyr flere varianter av naturbasert familiearbeid. Dette er stort sett ulike versjoner av flerfamiliegrupper hvor hele familier er samlet, eller egne grupper for fedre med barn eller mødre med barn. Blå Kors er en del av et Agder-basert nettverk for naturbaserte familietjenester hvor vi har utvekslet erfaringer og utviklet felles samarbeidsprosjekter siden 2019. <br> <br>
     Kontaktperson hos Blå Kors: [Anne-Randi Hanssen](mailto:Anne.Hanssen@blakors.no). Virksomhetsleder ved Barnas Stasjon.'
 
   - organization: Kristiansand Kommune
