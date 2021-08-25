@@ -40,16 +40,16 @@ bio: Forsker ved ABUP enhet for Forskning og Utvikling.
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-# social:
+ social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:test@example.org'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+ - icon: google-scholar
+   icon_pack: ai
+   link: https://scholar.google.no/citations?user=bWrN-gUAAAAJ&hl=no
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
