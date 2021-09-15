@@ -3,7 +3,7 @@ title: Tilbake til helse, et skritt om gangen.
 date: 2020-12-02
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+Aldri før har skrittene dit gått så raskt som nå!
 
 <!--more-->
 

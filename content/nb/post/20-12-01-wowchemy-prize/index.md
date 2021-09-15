@@ -3,7 +3,7 @@ title: Friluftsteamet har gjort det igjen!
 date: 2020-12-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Les mer her om den store hendelsen i friluftsteamet.
 
 <!--more-->
 
