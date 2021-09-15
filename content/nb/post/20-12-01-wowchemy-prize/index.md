@@ -1,5 +1,5 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: Friluftsteamet har gjort det igjen!
 date: 2020-12-01
 ---
 
