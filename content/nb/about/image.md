@@ -27,5 +27,6 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
 advanced:
-  css_class: fullscreen
+  css_class:
+  css_style: width="300" height="300"
 ---
