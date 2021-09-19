@@ -24,6 +24,8 @@ design:
 
 Det hele startet egentlig med denne mannen, Leiv Einar Gabrielsen (Bilde 1).
 
+<!-- <a><img src="leiv.jpg" alt="Bilde av Leiv" width="50%" height="auto" margin-left="auto" margin-right="auto" display="block"/></a> -->
+
 Leiv gjennomførte sitt doktorgradsprosjekt som ansatt ved Avdeling for barn og unges psykiske helse (ABUP) ved Sørlandet Sykehus. I sin studie utforsket han meningsdannelse hos ungdom og her kom det frem at mange
 unge mennesker opplevde mening i forbindelse med opphold i naturen. Leiv var selv en friluftsentusiast og ble derfor opptatt av å utforske potensialet for helsefremming og meningssøking
 gjennom naturbaserte behandlingstilnærminger. Han disputerte for sin doktorgrad i 2012 og begynte på samme tid å planlegge et klinisk utviklingsprosjekt som omhandlet nettopp sammenhengen
