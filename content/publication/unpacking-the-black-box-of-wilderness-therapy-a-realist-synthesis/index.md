@@ -6,7 +6,7 @@ authors:
   - Carina Ribe Fernee
   - Leiv Einar Gabrielsen
   - Anders J. W. Andersen
-  - and Terje Mesel
+  - Terje Mesel
 doi: https://doi.org/10.1177/1049732316655776
 abstract: >-
   Despite considerable progress within wilderness and adventure therapy research
