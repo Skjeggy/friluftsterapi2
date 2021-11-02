@@ -32,7 +32,8 @@ event_url: https://9iatc.internationaladventuretherapy.org/
 publishDate: 2021-11-02T22:48:51.850Z
 draft: false
 featured: false
-authors: []
+authors:
+  - Carina Ribe Fernee
 image:
   filename: ""
   focal_point: Smart
