@@ -2,7 +2,7 @@
 title: Mestringstro i Friluftsterapi
 authors:
  - Hedda Bulie Haanæs
-date: "2021-07-01T00:00:00Z"
+date: "2016-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

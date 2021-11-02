@@ -23,6 +23,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2021-11-02T21:11:12.114Z
+date: 2016-11-02T21:11:12.114Z
 url_pdf: https://outdoorstherapy.netlify.app/publication/personlig-utvikling-i-minus-20-grader-psykisk-helsearbeid-pa-hardangervidda-en-casestudie/4.Gabrielsen2016.pdf
 ---

@@ -20,6 +20,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2021-11-02T21:13:39.022Z
+date: 2017-11-02T21:13:39.022Z
 url_pdf: https://outdoorstherapy.netlify.app/publication/unpacking-the-black-box-of-wilderness-therapy-a-realist-synthesis/5.Fernee2017.pdf
 ---
