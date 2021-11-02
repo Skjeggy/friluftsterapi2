@@ -18,7 +18,7 @@ date_format: Jan 2006
 #   Begin/end multi-line descriptions with `>-`.
 item:
   - organization: Blå Kors
-    organization_url: 'https://www.blakors.no'
+    organization_url: https://www.blakors.no
     title: Barnas Stasjon, Blå Kors
     url: ''
     certificate_url: ''
@@ -28,7 +28,7 @@ item:
     Kontaktperson hos Blå Kors: [Anne-Randi Hanssen](mailto:Anne.Hanssen@blakors.no). Virksomhetsleder ved Barnas Stasjon.'
 
   - organization: Kristiansand Kommune
-    organization_url: 'https://www.kristiansand.kommune.no/'
+    organization_url: https://www.kristiansand.kommune.no/
     title: Kristiansand Kommune
     url: ''
     certificate_url: ''
@@ -39,7 +39,7 @@ item:
     Kontaktperson Fritidsenheten: [Vibeke Tangen Koefoed](mailto:Vibeke.Tangen.Koefoed@kristiansand.kommune.no). Fritidsleder gruppetilbud.'
 
   - organization: Den Norske Turistforening
-    organization_url: 'www.dntsor.no'
+    organization_url: www.dntsor.no
     title: 'Den Norske Turistforening'
     url: ''
     certificate_url: ''
@@ -49,7 +49,7 @@ item:
     Kontaktperson: [Hanne C. Jensen](mailto:hanne.jensen@dnt.no). Fagsjef for frivillighet og folkehelse.'
 
   - organization: uia
-    organization_url: 'www.uia.no'
+    organization_url: www.uia.no
     title: 'Universitetet i Agder'
     url: ''
     certificate_url: ''
@@ -57,18 +57,8 @@ item:
     date_end: ''
     description: 'Vi samarbeider med universitetet i landsdelen vår i flere sammenhenger, senest i forbindelse med utviklingen av EVU-studiet Naturbasert terapeutisk arbeid og verdenskonferansen The 9th International Adventure Therapy Conference/3rd Gathering for Adventure Therapy Europe (9IATC/3GATE). <br> Kontaktperson: [Sveinung Berntsen Stølevik](mailto:sveinung.berntsen@uia.no). Instituttleder for idrettsvitenskap og kroppsøving.'
 
-  - organization: Universitetet i Agder
-    organization_url: 'www.uia.no'
-    title: 'Universitetet i Agder'
-    url: ''
-    certificate_url: ''
-    date_start: '2021-01-01'
-    date_end: ''
-    description: 'Vi samarbeider med universitetet i landsdelen vår i flere sammenhenger, senest i forbindelse med utviklingen av EVU-studiet Naturbasert terapeutisk arbeid og verdenskonferansen The 9th International Adventure Therapy Conference/3rd Gathering for Adventure Therapy Europe (9IATC/3GATE). <br> 
-    Kontaktperson: [Sveinung Berntsen Stølevik](mailto:sveinung.berntsen@uia.no). Instituttleder for idrettsvitenskap og kroppsøving.'
-
   - organization: The Foundation For The Rehabilitation Of Children And Young People, The Mannerheim League For Child Welfare (MLL), Finland
-    organization_url: 'www.lastenkuntoutus.net'
+    organization_url: www.lastenkuntoutus.net
     title: 'The Foundation For The Rehabilitation Of Children And Young People, The Mannerheim League For Child Welfare (MLL), Finland'
     url: ''
     certificate_url: ''
