@@ -29,5 +29,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2021-11-02T22:31:18.957Z
+date: 2020-11-02T22:31:18.957Z
+url_pdf: https://outdoorstherapy.netlify.app/publication/emerging-stories-of-self-long-term-outcomes-of-wilderness-therapy-in-norway/12.Fernee2020.pdf
 ---
