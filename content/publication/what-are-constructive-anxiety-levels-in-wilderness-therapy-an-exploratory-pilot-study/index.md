@@ -29,5 +29,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2021-11-02T22:13:41.024Z
+date: 2019-11-02T22:13:41.024Z
+url_pdf: https://outdoorstherapy.netlify.app/publication/what-are-constructive-anxiety-levels-in-wilderness-therapy-an-exploratory-pilot-study/10.Gabrielsen2019.pdf
 ---
