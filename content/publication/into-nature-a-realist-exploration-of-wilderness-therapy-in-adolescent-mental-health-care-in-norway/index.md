@@ -1,6 +1,7 @@
 ---
 title: "Into Nature: A Realist Exploration of Wilderness Therapy in Adolescent
   Mental Health Care in Norway"
+subtitle: Doctoral dissertation
 publication_types:
   - "1"
 authors:
@@ -47,6 +48,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2019-11-02T22:20:58.013Z
-url_pdf: https://outdoorstherapy.netlify.app/publication/into-nature-a-realist-exploration-of-wilderness-therapy-in-adolescent-mental-health-care-in-norway/11.Fernee2019IntoNature.pdf
+date: 2021-11-02T22:20:58.013Z
 ---
