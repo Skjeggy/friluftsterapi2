@@ -9,14 +9,16 @@ weight: 80
 title: 
 draft: false
 
-image:
-  filename: featured.jpg
-  focal_point: Center
-  preview_only: false
-  caption: ""
-
 design:
   columns: "1"
+
+image:
+  filename: featured.jpg
+  placement: 1
+  caption: "Leiv Einar Gabrielsen"
+  focal_point: "Center"
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
 
 ---
 
