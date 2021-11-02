@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Nevin Jason Harper
-  - Carina Rene Fernee
+  - Carina Ribe Fernee
   - Leiv Einar Gabrielsen
 doi: https://www.mdpi.com/1660-4601/18/10/5117/htm
 abstract: "Objective: To report on the role of nature in outdoor therapies
