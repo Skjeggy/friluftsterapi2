@@ -2,7 +2,7 @@
 title: Når terapeuten forlater kontoret. Erfaringer fra å drive psykisk
   helsearbeid ute i det fri
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Leiv Einar Gabrielsen
   - Else Beate Storsveen
@@ -18,11 +18,11 @@ abstract: Artikkelen handler om hvordan terapeuter opplever å bruke naturen som
   følge av naturens lunefullhet og endrede forutsetninger for å drive terapi, og
   4) flere roller og dermed en dypere relasjon til klienten.
 draft: false
+url_pdf: https://outdoorstherapy.netlify.app/publication/nar-terapeuten-forlater-kontoret-erfaringer-fra-a-drive-psykisk-helsearbeid-ute-i-det-fri/6.Gabrielsen2018
 featured: false
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
 date: 2018-11-02T21:30:00.000Z
-url_pdf: https://outdoorstherapy.netlify.app/publication/nar-terapeuten-forlater-kontoret-erfaringer-fra-a-drive-psykisk-helsearbeid-ute-i-det-fri/6.Gabrielsen2018
 ---
