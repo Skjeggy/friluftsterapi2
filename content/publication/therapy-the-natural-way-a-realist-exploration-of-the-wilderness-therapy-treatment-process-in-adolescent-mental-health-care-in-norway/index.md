@@ -29,5 +29,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2021-11-02T21:54:50.194Z
+date: 2019-11-02T21:54:50.194Z
+url_pdf: https://outdoorstherapy.netlify.app/publication/therapy-the-natural-way-a-realist-exploration-of-the-wilderness-therapy-treatment-process-in-adolescent-mental-health-care-in-norway/9.Fernee2019.pdf
 ---
