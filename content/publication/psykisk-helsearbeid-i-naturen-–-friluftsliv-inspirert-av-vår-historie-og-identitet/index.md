@@ -23,4 +23,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-11-02T20:16:36.905Z
+url_pdf: https://hvlopen.brage.unit.no/hvlopen-xmlui/handle/11250/2424322
 ---
