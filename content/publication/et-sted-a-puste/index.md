@@ -28,10 +28,9 @@ tags:
 - Masteroppgave
 featured: true
 
-links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: torvik2021.pdf
+url_pdf: https://outdoorstherapy.netlify.app/publication/et-sted-a-puste/torvik2021.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
