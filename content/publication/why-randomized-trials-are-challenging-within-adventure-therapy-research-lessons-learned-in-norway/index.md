@@ -27,6 +27,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2021-11-02T21:01:44.985Z
+date: 2016-11-02T21:01:44.985Z
 url_pdf: https://outdoorstherapy.netlify.app/publication/why-randomized-trials-are-challenging-within-adventure-therapy-research-lessons-learned-in-norway/3.Gabrielsen2016.pdf
 ---
