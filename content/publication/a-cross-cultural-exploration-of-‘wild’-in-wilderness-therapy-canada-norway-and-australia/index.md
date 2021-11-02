@@ -29,5 +29,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2021-11-02T21:38:00.000Z
+date: 2017-10-02T21:38:00.000Z
+url_pdf: https://outdoorstherapy.netlify.app/publication/a-cross-cultural-exploration-of-wild-in-wilderness-therapy-canada-norway-and-australia/7.Harper2018.pdf
 ---
