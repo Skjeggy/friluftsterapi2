@@ -26,8 +26,6 @@ image:
 
 Det hele startet egentlig med denne mannen, Leiv Einar Gabrielsen (Bilde 1).
 
-<a><img src="leiv.jpg" alt="Bilde av Leiv" class="aligncenter" /></a>
-
 Leiv gjennomførte sitt doktorgradsprosjekt som ansatt ved Avdeling for barn og unges psykiske helse (ABUP) ved Sørlandet Sykehus. I sin studie utforsket han meningsdannelse hos ungdom og her kom det frem at mange
 unge mennesker opplevde mening i forbindelse med opphold i naturen. Leiv var selv en friluftsentusiast og ble derfor opptatt av å utforske potensialet for helsefremming og meningssøking
 gjennom naturbaserte behandlingstilnærminger. Han disputerte for sin doktorgrad i 2012 og begynte på samme tid å planlegge et klinisk utviklingsprosjekt som omhandlet nettopp sammenhengen
@@ -77,11 +75,3 @@ gruppebehandling så vi muligheten for å gjennomføre en teamtreningstur i sted
 særlig den spektakulære solnedgangen på midtsommernatten som ble tilbrakt på toppen av Reinådalsheii, gjorde varig inntrykk (Bilde 7). Lite ante vi da at Leiv kort tid etter skulle bli
 diagnostisert med alvorlig kreftsykdom og at vi kun få måneder senere igjen samlet oss rundt ham, men denne gang i bisettelsen, hvor vi i «flokken» hans hadde brakt med oss gevirer fra Setesdals
 Austhei. Leiv er med oss videre i våre tanker og hjerter i det vi vandrer videre gjennom dette forunderlige livet.
-
-
-
-<style>
-.aligncenter {
-    text-align: center;
-}
-</style>
