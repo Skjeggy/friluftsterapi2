@@ -22,6 +22,6 @@ image:
   filename: https://unsplash.com/photos/y8Ngwq34_Ak/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8M3x8b3V0ZG9vcnN8fDB8fHx8MTYzNTg2MzY3Mw&force=true&w=1920
   focal_point: Smart
   preview_only: false
-date: 2021-11-02T20:16:36.905Z
+date: 2021-01-01T20:16:36.905Z
 url_pdf: https://outdoorstherapy.netlify.app/publication/psykisk-helsearbeid-i-naturen-friluftsliv-inspirert-av-var-historie-og-identitet/gabrielsen2014.pdf
 ---
