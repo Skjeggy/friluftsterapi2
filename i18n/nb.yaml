@@ -107,7 +107,7 @@
 - id: pub_preprint
   translation: Opprinnelig manus (preprint)
 - id: pub_report
-  translation: Masteroppgaver/spesialistoppgaver
+  translation: Master- Spesialist og PhD-oppgaver
 - id: pub_book
   translation: Bok
 - id: pub_book_section
