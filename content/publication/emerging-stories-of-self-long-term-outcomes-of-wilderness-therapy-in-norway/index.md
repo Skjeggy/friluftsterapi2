@@ -3,7 +3,7 @@ title: "Emerging stories of self: long-term outcomes of wilderness therapy in No
 publication_types:
   - "2"
 authors:
-  - Carina Rene Fernee
+  - Carina Ribe Fernee
   - Leiv Einar Gabrielsen
   - Anders J. W. Andersen
   - Terje Mesel
@@ -24,11 +24,11 @@ abstract: This paper is a twelve-month follow-up study that explores perceived
   theoretical framework should be developed to support future in-depth
   explorations.
 draft: false
+url_pdf: https://outdoorstherapy.netlify.app/publication/emerging-stories-of-self-long-term-outcomes-of-wilderness-therapy-in-norway/12.Fernee2020.pdf
 featured: false
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
 date: 2020-11-02T22:31:18.957Z
-url_pdf: https://outdoorstherapy.netlify.app/publication/emerging-stories-of-self-long-term-outcomes-of-wilderness-therapy-in-norway/12.Fernee2020.pdf
 ---
