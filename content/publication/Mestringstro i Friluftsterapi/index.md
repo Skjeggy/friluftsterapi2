@@ -30,10 +30,10 @@ tags:
 - Masteroppgave
 featured: false
 
-links:
- - name: Link til Oppgaven
-   url: https://hvlopen.brage.unit.no/hvlopen-xmlui/handle/11250/2424322
-# url_pdf: https://hvlopen.brage.unit.no/hvlopen-xmlui/handle/11250/2424322
+# links:
+#  - name: Link til Oppgaven
+#    url: https://hvlopen.brage.unit.no/hvlopen-xmlui/handle/11250/2424322
+url_pdf: https://hvlopen.brage.unit.no/hvlopen-xmlui/handle/11250/2424322
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

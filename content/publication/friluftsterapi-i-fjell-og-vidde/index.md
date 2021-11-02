@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Silje Pileberg
 doi: ""
-publication: http://files.friluftsterapi.webnode.com/200000277-b4bb9b5b36/Friluftsterapi%20i%20Fjell%20og%20Vidde.pdf
+publication:
 featured: false
 tags: null
 projects: []
@@ -18,10 +18,6 @@ summary: Sju ungdommer med psykiske utfordringer tilbrakte seks døgn i naturen.
   Den siste natten åpnet de seg for hverandre.
 date: 2017-09-01T00:00:00Z
 publishDate: 2017-09-01T00:00:00Z
+
+url_pdf: http://files.friluftsterapi.webnode.com/200000277-b4bb9b5b36/Friluftsterapi%20i%20Fjell%20og%20Vidde.pdf
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
